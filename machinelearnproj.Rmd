@@ -1,7 +1,7 @@
 ---
-title: "Assignment"
-author: "Keunoo Chang"
-date: "14/02/2019"
+title: "Practical-Machine-Learning-Project"
+author: "J Tang"
+date: "16/02/2019"
 output:
   html_document: default
 ---
