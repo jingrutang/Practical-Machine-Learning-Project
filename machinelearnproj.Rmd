@@ -1,4 +1,10 @@
-
+---
+title: "Assignment"
+author: "Keunoo Chang"
+date: "14/02/2019"
+output:
+  html_document: default
+---
 
 ```{r}
 Train_Data <- read.csv("./data/pml-training.csv")
